@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zomixi
-- 👀 I’m interested in LOL
-- 🌱 I’m currently learning LOL
-- 💞️ I’m looking to collaborate on LOL
+- 👀 I’m interested in Ukraine
+- 🌱 I’m currently learning Ukraine
+- 💞️ I’m looking to collaborate on Ukraine
 
 <!---
 zomixi/zomixi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
