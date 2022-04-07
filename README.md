@@ -1,4 +1,12 @@
 <div align=center>
+  
+# zomixi
+  
+<p>
+
+[![](https://img.shields.io/badge/-Online%20Resume-blue)](https://visiky.github.io/resume/?lang=zh_CN&user=zomixi)
+
+</p>
 
 ## 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
