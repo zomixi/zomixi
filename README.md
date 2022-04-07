@@ -1,7 +1,5 @@
 <div align=center>
 
-# zomixi
-
 ## 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <p>
