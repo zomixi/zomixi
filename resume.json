@@ -8,7 +8,10 @@
     "workList": "个人作品",
     "aboutme": "自我介绍"
   },
-  "avatar": { "hidden": false },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/33776415?v=4",
+    "hidden": false
+  },
   "profile": {
     "name": "钟明星",
     "email": "zomixi@qq.com",
@@ -129,5 +132,6 @@
   ],
   "aboutme": {
     "aboutme_desc": "自驱型前端工程师，四年前端开发经验，能熟练使用Angular、Vue、React开发大型复杂产品。"
-  }
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
