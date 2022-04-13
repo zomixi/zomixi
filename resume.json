@@ -116,18 +116,18 @@
   "workList": [
     {
       "work_name": "rh.js",
-      "work_desc": "前端脚手架工具、组件库",
+      "work_desc": "前端脚手架工具",
       "visit_link": "https://github.com/RootLinkFE/rh.js"
     },
     {
-      "work_name": "RootHub",
-      "work_desc": "前端物料资产统一管理平台",
-      "visit_link": "https://github.com/RootLinkFE/roothub"
+      "work_name": "vc-wangeditor",
+      "work_desc": "封装wangeditor在vue中的使用",
+      "visit_link": "https://github.com/zomixi/vc-wangeditor"
     },
     {
-      "work_name": "CodeGen",
-      "work_desc": "可视化Swagger API 文档TypeScript代码生成",
-      "visit_link": "http://codegen.leekhub.com/"
+      "work_name": "rc-memory-manager",
+      "work_desc": "可视化字节管理器",
+      "visit_link": "https://github.com/zomixi/rc-memory-manager"
     }
   ],
   "aboutme": {
