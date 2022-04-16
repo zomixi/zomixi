@@ -115,14 +115,14 @@
   ],
   "workList": [
     {
+      "work_name": "Next.js Blog",
+      "work_desc": "使用Next.js搭建的个人博客网站，使用 Github Issues 作为 CMS。",
+      "visit_link": "https://github.com/zomixi/blog"
+    },
+    {
       "work_name": "rh.js",
       "work_desc": "前端脚手架工具",
       "visit_link": "https://github.com/RootLinkFE/rh.js"
-    },
-    {
-      "work_name": "vc-wangeditor",
-      "work_desc": "封装wangeditor在vue中的使用",
-      "visit_link": "https://github.com/zomixi/vc-wangeditor"
     },
     {
       "work_name": "rc-memory-manager",
