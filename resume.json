@@ -116,7 +116,7 @@
   "workList": [
     {
       "work_name": "Next.js Blog",
-      "work_desc": "使用Next.js搭建的个人博客网站，使用 Github Issues 作为 CMS。",
+      "work_desc": "使用 Next.js 搭建的个人博客网站，博客管理于 Github Issues。",
       "visit_link": "https://github.com/zomixi/blog"
     },
     {
