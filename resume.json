@@ -40,13 +40,13 @@
     {
       "company_name": "广州乐摇摇信息科技有限公司",
       "department_name": "生活娱乐部  ",
-      "work_time": ["2020.03", "2020.09"],
+      "work_time": ["2020.04", "2020.09"],
       "work_desc": "中级前端工程师。使用 Vue2 参与开发多个移动C端产品；参与开发多个微信小程序、支付宝小程序。"
     },
     {
       "company_name": "广州一智通供应链管理有限公司",
       "department_name": "技术开发部",
-      "work_time": ["2018.05", "2020.03"],
+      "work_time": ["2018.05", "2020.04"],
       "work_desc": "初级前端工程师。使用 Angular6 参与开发多个大型B端产品。"
     }
   ],
@@ -101,14 +101,14 @@
     {
       "project_name": "乐摇摇科技小程序",
       "project_role": "前端工程师",
-      "project_time": "2020.03 - 2020.09",
+      "project_time": "2020.04 - 2020.09",
       "project_desc": "乐摇摇设备启动小程序，用于线下支付并启动4G、蓝牙设备",
       "project_content": "1. 开发抓娃娃机、吹风机等设备的下单、支付、启动等页面； 2. 对接蓝牙协议并启动设备"
     },
     {
       "project_name": "物流供应链管理平台",
       "project_role": "前端工程师",
-      "project_time": "2018.05 - 2020.03",
+      "project_time": "2018.05 - 2020.04",
       "project_desc": "家居物流供应链平台，从下单、中转、配送安装、异常上报、签收等全链路系统，包含有：SCM、IPS、CMP、BMP、BOSS、家装通App等",
       "project_content": "1. 参与下单、物流、财务等模块的开发； 2. 参与组件库的搭建与维护"
     }
