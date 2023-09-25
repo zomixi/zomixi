@@ -1,7 +1,7 @@
 <!-- just for align center -->
 <div align=center>
   
-# zomixi
+# Mars Zhong
 
 [![](https://img.shields.io/badge/%E7%AE%80%E5%8E%86-Resume-blue)](https://visiky.github.io/resume/?lang=zh_CN&user=zomixi)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-blue)](https://zomixi.vercel.app/)
