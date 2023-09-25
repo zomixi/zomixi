@@ -24,7 +24,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?logo=MongoDB&logoColor=green)
 
 ![Gitlab CI](https://img.shields.io/badge/-DevOps-%23282C34?logo=gitlab)
-  
-## 
-
-[![buy-me-a-coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/zomixi)
